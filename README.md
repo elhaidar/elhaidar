@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Haidar</h1>
 <h3 align="center">A passionate frontend developer and quality assurance from Indonesia</h3>
 
-- 🌱 I’m currently learning **NextJS, Flutter**
+- 🌱 I’m currently learning **NextJS, Supabase**
 
 - 💬 Ask me about **React, Javascript etc**
 
 - 📫 How to reach me **anantakusuma65@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kFtvDFY5HkxJJeJKq1yoKFjw8YlKB2bX/view?usp=sharing](https://drive.google.com/file/d/1kFtvDFY5HkxJJeJKq1yoKFjw8YlKB2bX/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1CXNE7UU3rDWKK7CsCWzOMmuWlqdBlJXf/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
